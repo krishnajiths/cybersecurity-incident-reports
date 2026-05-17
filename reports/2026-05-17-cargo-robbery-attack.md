@@ -16,7 +16,7 @@ Social Engineering Attack
 Multuple Hacker Groups
 
 ## Attack Method
-Phishing
+Phishing and Spoofing
 
 ## Impact
 Estimated loss nearly $725 million in only 2025
@@ -34,7 +34,7 @@ Ongoing
 The FBI suggests that transportation and logistics companies should strengthen verification procedures.
 
 ## Short Summary
-Hackers are using phishing emails and spoofing legitimate buisnesses to trick unknowing shipping companies into clicking links that will allow the hacker to gain access to their entire system. Using this technique they are able to impersonate legitimate companies and steal cargo and resell if for their own financial gain. The FBI urges transportation companies to tighten their verification procedures in order to limit further losses in this sector.
+Hackers are using phishing emails and spoofing legitimate buisnesses to trick target companies into clicking links that will allow the hacker to gain access to their entire system. Using this technique they are able to impersonate legitimate companies and trick unknowing cargo companes into sending their cargo, letting them steal it and resell it for their own financial gain. The FBI urges transportation companies to tighten their verification procedures in order to limit further losses in this sector.
 
 ## Lesson Learned
 Verify that the sender is trustworthy before clicking on any link or sending information, even if it looks like it is from a trusted company or individual.
