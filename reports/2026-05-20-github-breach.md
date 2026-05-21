@@ -30,9 +30,6 @@ Github immediately removed the malicious VS Code extension, isolated the endpoin
 ## Current Status
 Ongoing
 
-## Solution
-Security team removed malicious extension and went through incident response protocols.
-
 ## Short Summary
 TeamPCP a known hacker group for their creation of the Shai-Halud malware. Through a supply-chain attack the group was able to make a VS Code extension into a trojan. An unknowing GitHub employee downloaded the malware allowing TeamPCP to change repository permissions and gain unaothorized access to internal repositories. Although GitHub was able to quickly contain the malware, worry grows as countless developers wait to find out if their sensitive data had been compromised.
 
