@@ -34,7 +34,7 @@ Solved
 Canvas reportedly paid the ransom and restored services while strengthening platform security.
 
 ## Short Summary
-The ransomware attack temporarily disrupted Canvas services during finals week. Attackers threatened to leak sensitive user data if the ransom was not paid.
+The hacker group ShinyHunters reportedly attacked Canvas, the online learning platform made by Instructure, by gaining unauthorized access and stealing large amounts of student and school data. The breach affected millions of users and exposed information such as names, emails, student IDs, and messages. The attack was mainly considered a data breach and extortion-style cyberattack because the attackers allegedly threatened to leak the stolen data unless a ransom was paid.
 
 ## Lesson Learned
 Educational organizations should prepare backup systems and avoid relying entirely on online platforms during critical periods.
