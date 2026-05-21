@@ -19,7 +19,7 @@ The goal of this project is to practice cybersecurity analysis, improve incident
 
 | Date | Report |
 |---|---|
-| May 5, 2026 | [Daemon Tools Supply Chain Attack](./2026-05-05-daemon-tools-supply-chain-attack.md) |
+| May 5, 2026 | [Daemon Tools Supply Chain Attack](2026-05-05-daemon-tools-supply-chain-attack.md) |
 | May 7, 2026 | [Canvas Ransomware Attack](./2026-05-07-canvas-ransomware-attack.md) |
 | May 11, 2026 | [Google Prevented Zero-Day Exploit](./2026-05-11-google-prevented-zero-day-exploit.md) |
 | May 17, 2026 | [Cargo Robbery Attack](./2026-05-17-cargo-robbery-attack.md) |
