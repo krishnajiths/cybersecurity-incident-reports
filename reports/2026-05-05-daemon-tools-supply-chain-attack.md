@@ -34,7 +34,7 @@ Ongoing
 Security teams removed malicious files and investigated the infected installers.
 
 ## Short Summary
-Attackers compromised official DAEMON Tools installers and distributed malware to users worldwide. The malware installed backdoors, collected system information, and delivered additional payloads to targeted victims.
+DAEMON is a image creation tool that is used all across the world to create media, a supply chain attack installs a trojan on to the users device which then gets different executable payloads that download system information as well as installing a backdoor onto the device. Certain targets also have reports of a RAT meaning that the group behind this is targeting certain individuals and sectors.
 
 ## Lesson Learned
 Users should verify downloads and use security scans even when downloading software from trusted companies.
