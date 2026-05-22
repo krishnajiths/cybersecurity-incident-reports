@@ -31,7 +31,7 @@ Although it is unclear right now, 7-Eleven is a giant franchise with customers a
 Ongoing
 
 ## Short Summary
-7-Eleven is a well known conveniance store chain that fell victim to ShinyHunters widespread IT wworker vishing campaign in which they have targeted over 700 high-profile individuals. Although 7-Eleven avoids revealing too much about the situation, it is clear that the hack exposed specific individuals and data revealed could be much more than just name and address. 7-Elevens limited transparency and refusal to negotiate with ShinyHunters rises suspicion as to what the severity of the data leaked could be. Employees and affected individuals should stay alert and verify all emails and phone calls concerning sensitive information as data leaked could lead to them being targeted and victims of vishing phone calls and phising emails.
+7-Eleven is a well known conveniance store chain that fell victim to ShinyHunters widespread IT worker vishing campaign in which they have targeted over 700 high-profile individuals. Although 7-Eleven avoids revealing too much about the situation, it is clear that the hack exposed specific individuals and data revealed could be much more than just name and address. 7-Elevens limited transparency and refusal to negotiate with ShinyHunters rises suspicion as to what the severity of the data leaked could be. Employees and affected individuals should stay alert and verify all emails and phone calls concerning sensitive information as data leaked could lead to them being targeted and victims of vishing phone calls and phising emails.
 
 ## Lesson Learned
 Employees should verify before revealing any sensitive information even if the person on the other end of the call sounds familiar or urgent.
