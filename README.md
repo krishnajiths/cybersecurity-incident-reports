@@ -27,7 +27,3 @@ The goal of this project is to practice cybersecurity analysis, improve incident
 | May 21, 2026 | [7-Eleven Vishing Breach](./reports/2026-05-21-Seven-Eleven-Breach.md) |
 | May 26, 2026 | [KimWolf Botnet Busted](./reports/2026-05-26-kimwolf-ddos-botnet.md) |
 | June 2, 2026 | [Grindr Data Leak](./reports/2026-06-02-grindr-data-leak.md) |
-
-
-
-2026-06-02-grindr-data-leak.md
